@@ -6,6 +6,8 @@ import java.util.Scanner;
  * @author lin
  * @version 1.0
  */
+
+//test
 public class Main {
     public static final int DISPLAYS_FREE_PARTITIONS = 1;
     public static final int ASSIGN_JOBS = 2;
